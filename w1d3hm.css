@@ -1,11 +1,6 @@
 img { 
 	height: 200px;	
 }
-
-/*li.octocat {
-	float: left;
-}*/
-
 li.octocat {
 	float: left;
 }
@@ -15,4 +10,7 @@ li.octocat {
 .authors img {
 	height: 20px;
 	border: none;
+}
+ul {
+	list-style: none;
 }
