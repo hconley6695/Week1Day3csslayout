@@ -1,5 +1,9 @@
 img { 
-	height: 100px;	
+	height: 200px;	
 }
-
-
+li.octocat {
+	float: left;
+}
+.authors img {
+	height: 20px;
+}
