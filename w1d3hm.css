@@ -1,16 +1,19 @@
 body {
 	border: 1px solid lightgray;
-	height: 300px;
-	width: 725px;
+	height: 320px;
+	width: 900px;
 	margin: auto;
 	padding: auto;
 }
 ul.octodex {
 	padding-right: 20px;
 	padding-left: 20px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 img { 
-	height: 200px;	
+	height: 250px;	
 	width: auto;
 }
 li.octocat {
@@ -41,6 +44,7 @@ div.image-footer {
 span.image-number {
 	font-size: 11px;
 	color: lightgray;
+	float: left;
 }
 ul {
 	list-style: none;
